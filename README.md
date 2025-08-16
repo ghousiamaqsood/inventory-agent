@@ -1,2 +1,0 @@
-"# inventory-agent" 
-"# agentic-inventory-" 
